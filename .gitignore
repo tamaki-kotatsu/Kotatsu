@@ -1,0 +1,7 @@
+# Carpetas de dependencias y sesión de WhatsApp
+node_modules/
+auth_tamaki/
+
+# Archivos de configuración local
+.env
+*.log
